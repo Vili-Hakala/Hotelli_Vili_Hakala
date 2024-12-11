@@ -1,0 +1,160 @@
+Huone numero: 1 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 2 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 3 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 4 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 5 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 6 (yhdelle)
+Varaaja: vili 3
+Varausnumero: 10430
+Varattu
+
+Huone numero: 7 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 8 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 9 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 10 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 11 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 12 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 13 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 14 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 15 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 16 (yhdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 17 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 18 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 19 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 20 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 21 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 22 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 23 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 24 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 25 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 26 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 27 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 28 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 29 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 30 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 31 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
+Huone numero: 32 (kahdelle)
+Varaaja: 
+Varausnumero: 0
+Vapaa
+
